@@ -17,4 +17,8 @@ public class MiniHomework3 {
         // Changed this comment again
     }
     
+    public static void example(String[] args) {
+        //
+    }
+    
 }
