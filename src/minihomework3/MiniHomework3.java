@@ -18,6 +18,6 @@ public class MiniHomework3 {
     }
     
     public static void example2(String[] args) {
-        
+        // This is just an example
     }
 }
