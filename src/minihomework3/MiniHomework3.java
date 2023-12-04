@@ -14,7 +14,7 @@ public class MiniHomework3 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Changed this comment
+        // Changed this comment again
     }
     
 }
