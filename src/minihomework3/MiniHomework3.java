@@ -21,4 +21,11 @@ public class MiniHomework3 {
         // This is a comment
     }
     
+    public static void example2(String[] args) {
+        // This is just an example
+    }
+    
+    public static void example3(double someNumber) {
+        //
+    }
 }
